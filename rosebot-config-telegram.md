@@ -19,7 +19,7 @@ Use o /comandos para ver uma lista de comandos disponíveis!
 
 # Misc Configs
 
-`/setlang pt-br`
+```/setlang pt-br```
 
 `/setrules [Regras](buttonurl://https://t.me/triterascanal/8)`
 
