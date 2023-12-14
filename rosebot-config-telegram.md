@@ -60,6 +60,16 @@ Use o /comandos para ver uma lista de comandos disponíveis!
 `/subfed 1c2221d9-aa27-4baf-b77c-8822b36254d2`
 
 
+# Logs Config
+Create a new Channel
+Add rose as admin to this new channel
+Use the command:
+
+`/setlog`
+
+Forward this message to your group
+
+
 # Discord Filter
 ```
 **Triteras Discord Oficial**
