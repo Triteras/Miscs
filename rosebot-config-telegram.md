@@ -21,7 +21,7 @@ Use o /comandos para ver uma lista de comandos disponíveis!
 
 ```/setlang pt-br```
 
-`/setrules [Regras](buttonurl://https://t.me/triterascanal/8)`
+```/setrules [Regras](buttonurl://https://t.me/triterascanal/8)```
 
 `/privaterules off`
 
