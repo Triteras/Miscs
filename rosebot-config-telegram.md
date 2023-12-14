@@ -13,6 +13,8 @@ Use o /comandos para ver uma lista de comandos disponíveis!
 [🎮 Triteras (Telegram)](buttonurl://https://t.me/triteras)
 
 [🔊 Discord](buttonurl://https://varios.link/triterasdiscord:same)
+
+[🌐 Rede Triteras](buttonurl://https://t.me/addlist/MG6n2xQwYcw4YTYx)
 ```
 
 `/setwelcome`
