@@ -60,7 +60,7 @@ __Caso queira reportar algo diretamente dentro do grupo use o `@admin` para repo
 ```
 **⛏ Minecraft Download Pirata**
 
-__OBS: O grupo Minecraft Brasil não se responsabiliza por qualquer app pirata, usem sempre o original!__
+__OBS: O grupo Minecraft em Português não se responsabiliza por qualquer app pirata, usem sempre o original!__
 
 Clique no botão abaixo para baixar.
 {[⬇️ Baixar Minecraft Java - https://github.com/fn2006/PollyMC/releases/]}
